@@ -1,0 +1,17 @@
+.homePage {
+  padding-bottom: 89px;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: calc(100svh - 250px);
+}
+
+.status {
+  margin: 48px 0;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.6);
+  text-align: center;
+}

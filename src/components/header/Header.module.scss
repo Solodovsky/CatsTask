@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  background-color: #2196f3;
+  margin-bottom: 48px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.headerNav {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding-left: 62px;
+}
+
+.headerLink {
+  text-decoration: none;
+  color: #ffffffb2;
+  padding: 23px;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.headerLinkActive {
+  background-color: #1e88e5;
+}

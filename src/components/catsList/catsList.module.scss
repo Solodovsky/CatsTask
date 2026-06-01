@@ -1,0 +1,7 @@
+.catsList {
+  display: grid;
+  grid-template-columns: repeat(5, 255px);
+  row-gap: 52px;
+  column-gap: 31px;
+  margin-bottom: 308px;
+}
